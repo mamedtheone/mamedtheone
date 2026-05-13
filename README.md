@@ -84,6 +84,3 @@ Real-time face recognition system using OpenCV and Streamlit.
 
 ---
 
-# 💭 Engineering Philosophy
-
-> “The best systems reduce complexity without reducing capability.”
