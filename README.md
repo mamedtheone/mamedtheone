@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👋 Hey, I'm Mamed
 
-<!--
-**mamedtheone/mamedtheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student • AI Systems Builder • Designing Mental Models for Complex Technical Logic
 
-Here are some ideas to get you started:
+I focus on building practical AI systems with an emphasis on:
+- Local LLM deployment
+- Retrieval-Augmented Generation (RAG)
+- Computer vision
+- Offline-first AI workflows
+- Engineering-focused educational systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Dorm-Net**, an offline-first AI tutor designed for engineering students.
+
+---
+
+# 🧠 Dorm-Net
+
+> Offline-first AI tutoring for constrained university environments.
+
+Dorm-Net is a fully local AI tutoring platform that combines:
+- Ollama for local LLM inference
+- ChromaDB semantic retrieval
+- Okapi BM25 lexical search
+- Reciprocal Rank Fusion (RRF)
+- OCR support with OpenCV + Tesseract
+- PDF ingestion with PyMuPDF
+
+The project explores how hybrid retrieval systems and local inference can improve educational AI reliability without depending on cloud APIs.
+
+---
+
+# ⚙️ Core Focus Areas
+
+## AI Engineering
+- Local LLM Systems
+- Hybrid Retrieval Pipelines
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+
+## Machine Learning & Vision
+- OpenCV
+- TensorFlow
+- Scikit-learn
+- OCR Workflows
+
+## Software Engineering
+- Python
+- C++
+- SQL
+- Git & GitHub
+- Linux Development
+
+---
+
+# 🏗️ Current Work
+
+Currently refining:
+- Hybrid retrieval architectures
+- Advanced RAG workflows
+- OCR-enhanced educational AI
+- Efficient local inference systems
+- Engineering-focused tutoring pipelines
+
+---
+
+# 🧩 Featured Projects
+
+## 🧠 Dorm-Net
+Offline-first AI tutor for engineering study using hybrid retrieval and local LLM inference.
+
+## 🚖 Ride Price Estimation
+End-to-end machine learning pipeline using regression models and feature engineering.
+
+## 👁️ AI Face Recognition
+Real-time face recognition system using OpenCV and Streamlit.
+
+
+---
+
+# 🌐 Connect With Me
+
+- Email: mamedjemal@gmail.com
+- GitHub: https://github.com/mamedtheone
+
+---
+
+# 💭 Engineering Philosophy
+
+> “The best systems reduce complexity without reducing capability.”
